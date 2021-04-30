@@ -4,7 +4,7 @@
   "description": "This plug-in adds a script tag to turn on Akamai's Page Integrity Manager",
   "includes": [
     "akamaipim_script.html"
-  ]
+  ],
   "fields": [
     {
       "field": "params.akamai_pim_script_url",
